@@ -2,6 +2,8 @@
 
 This app can emulate key press from web page opened in your mobile device and send it to active window on your computer.
 
+**This is only small project and I using it to control my presentations when my notebook cannot be connected near me.**
+
 ## Requierements
 
 - Linux OS
@@ -20,4 +22,3 @@ This app can emulate key press from web page opened in your mobile device and se
 
 Yust edit file *templates/index.html* and add more buttons. If you want to send keys, use [] bracket around key like in example. If you want do send text, type it in to data attribute of buttons element without [] brackets.
 
-*This is only small project and I using it to control my presentations when my notebook cannot be connected near me.*
